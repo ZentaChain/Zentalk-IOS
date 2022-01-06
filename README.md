@@ -1,4 +1,4 @@
-# Zentalk-Mobile-IOS
+# Zentalk-IOS
 
 Zentalk is an ultra-secure, hybrid encrypted decentralized peer-to-peer (P2P) messenger application without cloud storage.
 
